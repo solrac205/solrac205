@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos F. Ramírez Abdalla
+- 👋 Hi, I’m solrac205
 - 👀 I’m interested in the development of applications core, desktop, or web in c# or VB.net
 - 🌱 I’m currently learning development on the platform Mac OS
 - 💞️ For this moment I’m not looking to collaborate on projects, for lack of time.
